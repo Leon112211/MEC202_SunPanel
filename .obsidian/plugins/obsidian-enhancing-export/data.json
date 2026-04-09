@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "PDF",
+      "arguments": "-f ${fromFormat} --resource-path=\"${currentDir}\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/pdf.lua\" -o \"${outputPath}\" -t pdf",
+      "customArguments": "--pdf-engine=xelatex -V CJKmainfont=\"Microsoft YaHei\" -V mainfont=\"DejaVu Serif\""
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Bibliography"
+    },
+    {
+      "name": "PowerPoint (.pptx)"
+    }
+  ],
+  "pandocPath": {
+    "win32": "\"D:\\APPLICATIONS\\Obsidian\\pandoc-3.9-windows-x86_64\\pandoc.exe\""
+  },
+  "defaultExportDirectoryMode": "Auto",
+  "openExportedFile": true,
+  "env": {},
+  "showExportProgressBar": true,
+  "lastEditName": "PDF",
+  "lastExportDirectory": {
+    "win32": "C:\\Users\\Leon\\OneDrive\\Desktop"
+  },
+  "lastExportType": "Markdown"
+}

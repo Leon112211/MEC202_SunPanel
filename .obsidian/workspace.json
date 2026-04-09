@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "e41541ff8c28c3d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "741437b8dfd85235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c31ee4ad54202a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3f8ce0621fe377a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a070a07c79c9d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37957a49b506821c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5ee54af64be9f7d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6173b65abd7d17a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "a58a2803fab31ba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "27dc509fe7d2d46a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9c6ba1efbea41a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "基础命令.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "基础命令 的反向链接列表"
+            }
+          },
+          {
+            "id": "9ad325f0f786a2ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "基础命令.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "基础命令 的出链列表"
+            }
+          },
+          {
+            "id": "8c05683d3cbc6f5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8811c583db9b2314",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c989dfdf21750370",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Module Track.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Module Track 的大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "whisper:Open recording controls": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "5c31ee4ad54202a8",
+  "lastOpenFiles": [
+    "DataSheet/RDS3115MG.pdf",
+    "DataSheet/DS3218.pdf",
+    "DataSheet/未确认 664700.crdownload",
+    "esp32-s3_datasheet_en.pdf",
+    "DataSheet/esp32-s3_datasheet_en.pdf",
+    "DataSheet/esp32-s3_datasheet_cn.pdf",
+    "DataSheet/RDS3115MG_servo_motor_specification.pdf",
+    "DataSheet",
+    "新建文件夹",
+    "RDS3115MG_servo_motor_specification.pdf",
+    "esp32-s3_datasheet_cn.pdf",
+    "Infomation.md",
+    "assets/Infomation/file-20260409174942824.png",
+    "assets/Infomation/file-20260409174940487.png",
+    "assets/Infomation/file-20260409174933817.png",
+    "assets/Infomation/file-20260409174930045.png",
+    "assets/Infomation/file-20260409174858977.png",
+    "assets/Infomation/file-20260409174909494.png",
+    "Pasted image 20260409174422.png",
+    "University/MEC202/Projects/assets/Info/file-20260408142107259.png",
+    "University/MEC202/Projects/assets/Info/file-20260407233034471.jpg",
+    "University/MEC202/Projects/assets/Info/file-20260407233031358.jpg",
+    "University/MEC202/Projects/Info.md",
+    "Routine/TODO LIST.md",
+    "Routine/Module Track.md",
+    "Routine/Internship Track.md",
+    "University/MEC202/Projects/机械臂废弃/Summary和BOM.md",
+    "University/MEC202/Projects/机械臂废弃/1/说明.md",
+    "Routine/就业.md",
+    "Routine/沉淀.md",
+    "IELTS/TODO.md",
+    "IELTS/Speaking/Speaking Track.md",
+    "IELTS/Speaking/Draft.md",
+    "IELTS/Speaking/Speaking Meterial.md",
+    "IELTS/Speaking/Speaking Exam.md",
+    "Others/H2S相关帖子.md",
+    "Others/3D打印机选购.md",
+    "Routine/AI.md",
+    "Templates/Checkbox.md",
+    "Templates/Seperating line.md",
+    "University/Internship/学习路径.md",
+    "Password.md",
+    "Apply/Question.md",
+    "Apply/Master_Phd/其他/01_ETH_Zurich.md",
+    "Apply/Master_Phd/00_目录说明.md",
+    "University/MEC202/Arduino and Sensors Basics Review for Quiz-20260401/MEC202_Mock_Quiz.md"
+  ]
+}

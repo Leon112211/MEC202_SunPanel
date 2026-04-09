@@ -1,0 +1,5 @@
+.quiz-red-question-boxes p > input[type="checkbox"]:first-child {
+  accent-color: #d32f2f;
+  box-shadow: 0 0 0 1px #d32f2f inset;
+  border-radius: 3px;
+}
