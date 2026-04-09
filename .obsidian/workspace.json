@@ -11,10 +11,14 @@
             "id": "5c31ee4ad54202a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Infomation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Infomation"
             }
           }
         ]
@@ -184,6 +188,15 @@
   },
   "active": "5c31ee4ad54202a8",
   "lastOpenFiles": [
+    "assets/Infomation/file-20260409202830640.png",
+    "assets/Infomation/file-20260409195350106.png",
+    "assets/Infomation/file-20260409174942824.png",
+    "assets/Infomation/file-20260409174940487.png",
+    "assets/Infomation/file-20260409174933817.png",
+    "assets/Infomation/file-20260409174930045.png",
+    "Infomation.md",
+    "main/main.ino",
+    "main",
     "DataSheet/RDS3115MG.pdf",
     "DataSheet/DS3218.pdf",
     "DataSheet/未确认 664700.crdownload",
@@ -192,20 +205,11 @@
     "DataSheet/esp32-s3_datasheet_cn.pdf",
     "DataSheet/RDS3115MG_servo_motor_specification.pdf",
     "DataSheet",
-    "新建文件夹",
-    "RDS3115MG_servo_motor_specification.pdf",
-    "esp32-s3_datasheet_cn.pdf",
-    "Infomation.md",
-    "assets/Infomation/file-20260409174942824.png",
-    "assets/Infomation/file-20260409174940487.png",
-    "assets/Infomation/file-20260409174933817.png",
-    "assets/Infomation/file-20260409174930045.png",
     "assets/Infomation/file-20260409174858977.png",
     "assets/Infomation/file-20260409174909494.png",
     "Pasted image 20260409174422.png",
     "University/MEC202/Projects/assets/Info/file-20260408142107259.png",
     "University/MEC202/Projects/assets/Info/file-20260407233034471.jpg",
-    "University/MEC202/Projects/assets/Info/file-20260407233031358.jpg",
     "University/MEC202/Projects/Info.md",
     "Routine/TODO LIST.md",
     "Routine/Module Track.md",
