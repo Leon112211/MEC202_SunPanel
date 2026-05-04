@@ -4,8 +4,11 @@
 
 ![](assets/Infomation/file-20260409195350106.png)
 ![](assets/Infomation/file-20260409202830640.png)
-![](assets/Infomation/file-20260504123027848.jpg)
+
 ![](assets/Infomation/file-20260504124359360.jpg)
+![](assets/Infomation/file-20260504143238469.jpg)
+
+
 
 
 [2分钟组装【双轴滑块】N20减速电机版本](https://www.bilibili.com/video/BV1mnebzcErX/?spm_id_from=333.1387.search.video_card.click&vd_source=5bfa535549338540040a384eca47fc3a)
