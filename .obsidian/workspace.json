@@ -11,14 +11,12 @@
             "id": "5c31ee4ad54202a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Infomation.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/Infomation/file-20260504124359360.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Infomation"
+              "icon": "lucide-image",
+              "title": "file-20260504124359360"
             }
           }
         ]
@@ -188,8 +186,9 @@
   },
   "active": "5c31ee4ad54202a8",
   "lastOpenFiles": [
-    "assets/Infomation/file-20260504165956405.jpg",
     "assets/Infomation/file-20260504143238469.jpg",
+    "assets/Infomation/file-20260504165956405.jpg",
+    "Infomation.md",
     "assets/Infomation/file-20260504124359360.jpg",
     "assets/Infomation/file-20260504123027848.jpg",
     "README.md",
@@ -199,7 +198,6 @@
     "assets/Infomation/file-20260409174940487.png",
     "assets/Infomation/file-20260409174933817.png",
     "assets/Infomation/file-20260409174930045.png",
-    "Infomation.md",
     "main/main.ino",
     "main",
     "DataSheet/RDS3115MG.pdf",
@@ -210,7 +208,6 @@
     "DataSheet/esp32-s3_datasheet_cn.pdf",
     "DataSheet/RDS3115MG_servo_motor_specification.pdf",
     "DataSheet",
-    "assets/Infomation/file-20260409174858977.png",
     "University/MEC202/Projects/Info.md",
     "Routine/TODO LIST.md",
     "Routine/Module Track.md",
