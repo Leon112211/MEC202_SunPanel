@@ -64,8 +64,8 @@
 
 ## 直流电机
 
-6V50转速
-6V190转速（滚刷用的是这个）
+[6V50转速]( https://e.tb.cn/h.RZhGwXYXyOiX5dL?tk=D2LG5qvMyPM)
+[6V190转速（滚刷用的是这个）]( https://e.tb.cn/h.RbTjgoMb8tVE3E5?tk=1Gf25qvMbVM)
 
 
 
