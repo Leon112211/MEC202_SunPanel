@@ -1,15 +1,91 @@
-![](assets/Infomation/file-20260409174930045.png)![](assets/Infomation/file-20260409174933817.png)![697](assets/Infomation/file-20260409174940487.png)![697](assets/Infomation/file-20260409174942824.png)
 
-[说明书](https://seengreat.com/wiki/161/)
+## MPPT
+【淘宝】假一赔四 https://e.tb.cn/h.RZhdvN2EaSRWajL?tk=7APp5qFyOdl MF278 「MPPT太阳能充电模块 5V/3.1A Type-C协议快充 18650锂电池管理板」
+点击链接直接打开 或者 淘宝搜索直接打开
+
+[详细说明书](https://seengreat.com/wiki/161/)
+
+![](assets/Infomation/MPPT模块引脚图.png)![](assets/Infomation/file-20260409174933817.png)
+
+
+## 舵机引脚图
+
+![697](assets/Infomation/file-20260409174942824.png)
+
+
 
 ![](assets/Infomation/file-20260409195350106.png)
 ![](assets/Infomation/file-20260409202830640.png)
 
+
+## 齿轮规格
+
 ![](assets/Infomation/file-20260504124359360.jpg)
+
+
+
+
+## 滚刷规格
+
+
 ![](assets/Infomation/file-20260504143238469.jpg)
 
 
+
+
+
+## 直线轴承规格
+
 ![](assets/Infomation/file-20260504165956405.jpg)
+
+
+## 继电器
+
+
+![](assets/Infomation/file-20260513181153644.jpg)
+
+
+![](assets/Infomation/file-20260513181158192.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

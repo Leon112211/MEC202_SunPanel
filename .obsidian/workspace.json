@@ -11,12 +11,14 @@
             "id": "5c31ee4ad54202a8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/Infomation/file-20260504124359360.jpg"
+                "file": "Infomation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "file-20260504124359360"
+              "icon": "lucide-file",
+              "title": "Infomation"
             }
           }
         ]
@@ -186,18 +188,19 @@
   },
   "active": "5c31ee4ad54202a8",
   "lastOpenFiles": [
-    "assets/Infomation/file-20260504143238469.jpg",
-    "assets/Infomation/file-20260504165956405.jpg",
-    "Infomation.md",
-    "assets/Infomation/file-20260504124359360.jpg",
-    "assets/Infomation/file-20260504123027848.jpg",
-    "README.md",
-    "assets/Infomation/file-20260409202830640.png",
-    "assets/Infomation/file-20260409195350106.png",
-    "assets/Infomation/file-20260409174942824.png",
-    "assets/Infomation/file-20260409174940487.png",
+    "assets/Infomation/file-20260513181158192.jpg",
+    "assets/Infomation/file-20260513181153644.jpg",
+    "assets/Infomation/MPPT模块引脚图.png",
     "assets/Infomation/file-20260409174933817.png",
-    "assets/Infomation/file-20260409174930045.png",
+    "assets/Infomation/file-20260409174940487.png",
+    "assets/Infomation/file-20260409174942824.png",
+    "assets/Infomation/file-20260409195350106.png",
+    "assets/Infomation/file-20260409202830640.png",
+    "assets/Infomation/file-20260504123027848.jpg",
+    "assets/Infomation/file-20260504124359360.jpg",
+    "assets/Infomation/file-20260504143238469.jpg",
+    "Infomation.md",
+    "README.md",
     "main/main.ino",
     "main",
     "DataSheet/RDS3115MG.pdf",
