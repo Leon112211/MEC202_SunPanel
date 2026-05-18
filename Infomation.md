@@ -68,7 +68,7 @@
 [6V190转速（滚刷用的是这个）]( https://e.tb.cn/h.RbTjgoMb8tVE3E5?tk=1Gf25qvMbVM)
 
 
-## 环境光传感器
+## 环境光传感器（换成GY30了）
 
 
 ![](assets/Infomation/file-20260513182908802.png)
